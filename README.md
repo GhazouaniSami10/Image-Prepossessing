@@ -24,5 +24,10 @@ Python dependencies installation:
 ## Remove Noise from Image
 ![Screenshot](Input_Images/noise.png)
 
+![Screenshot](Input_Images/noise_grayscale.png)
+
+
+
+
 ## Improving Image Quality
 ![Screenshot](Input_Images/clahe.png)
