@@ -22,7 +22,7 @@ Python dependencies installation:
 ![Screenshot](Input_Images/Background.png)
 
 ## Remove Noise from Image
-![Screenshot](Input_Images/noise.jpg)
+![Screenshot](Input_Images/noise.png)
 
 ## Improving Image Quality
 ![Screenshot](Input_Images/clahe.png)
