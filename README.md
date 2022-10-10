@@ -9,6 +9,20 @@
 4. [Improving Image Quality](#Improving-Image-Quality)
 
 
+## Install Necessary Libraries Python
+
+Python dependencies installation:
+
+```bash
+(venv) $ pip install -r requirements.txt
+```
+
 
 ## Remove Background from Image
 ![Screenshot](Input_Images/Background.png)
+
+## Remove Noise from Image
+![Screenshot](Input_Images/Discovery_Museum.jpg)
+
+## Improving Image Quality
+![Screenshot](Input_Images/clahe.png)
